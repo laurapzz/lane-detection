@@ -15,4 +15,4 @@
 
 /Metric_3D/show_dirs/*
 /Metric_3D/data/*
-/Metric_3D/DepthEstimation/models/*
+/Metric_3D/DepthEstimation/models/*venv/
