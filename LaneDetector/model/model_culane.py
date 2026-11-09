@@ -1,4 +1,5 @@
 import torch
+import torch
 from LaneDetector.model.backbone import resnet
 import numpy as np
 from LaneDetector.ufldDetector.utils.common import initialize_weights

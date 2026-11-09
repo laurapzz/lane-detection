@@ -13,7 +13,7 @@ import supervision as sv
 main_path = Path(__file__).parent
 sys.path.insert(0, str(main_path))
 
-from utils.wrappers import boxmot_to_supervision, supervision_to_boxmot
+from ObjectDetector.utils.wrappers import boxmot_to_supervision, supervision_to_boxmot
 from boxmot import BoTSORT
 
 project_path = main_path.parent
